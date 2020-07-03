@@ -8,7 +8,7 @@
   import assign from 'object-assign'
   import channel from './channel'
   import Vue from 'vue'
-  import Header from './header'
+  import Header from './Header'
 
   import { timeout, is_ios_device } from './utils'
 
